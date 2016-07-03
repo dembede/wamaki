@@ -1,0 +1,23 @@
+[18-May-2015 14:47:10 CST6CDT] PHP Notice:  Undefined variable: email_from in /home/asiliate/public_html/chasebonds.test/scripts/email-submissions.php on line 39
+[18-May-2015 14:55:34 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/asiliate/public_html/chasebonds.test/scripts/email-submissions.php on line 20
+[18-May-2015 15:10:40 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/asiliate/public_html/chasebonds.test/scripts/email-submissions.php on line 20
+[08-Sep-2015 09:43:45 CST6CDT] PHP Notice:  Undefined variable: name in /home/asiliate/public_html/mobile2bank.test/scripts/email-submissions.php on line 31
+[08-Sep-2015 09:43:45 CST6CDT] PHP Notice:  Undefined variable: tel in /home/asiliate/public_html/mobile2bank.test/scripts/email-submissions.php on line 32
+[08-Sep-2015 09:43:45 CST6CDT] PHP Notice:  Undefined variable: email in /home/asiliate/public_html/mobile2bank.test/scripts/email-submissions.php on line 33
+[08-Sep-2015 09:43:45 CST6CDT] PHP Notice:  Undefined variable: message in /home/asiliate/public_html/mobile2bank.test/scripts/email-submissions.php on line 34
+[08-Sep-2015 09:43:45 CST6CDT] PHP Notice:  Undefined variable: name in /home/asiliate/public_html/mobile2bank.test/scripts/email-submissions.php on line 38
+[08-Sep-2015 09:43:45 CST6CDT] PHP Notice:  Undefined variable: email_from in /home/asiliate/public_html/mobile2bank.test/scripts/email-submissions.php on line 38
+[08-Sep-2015 09:47:02 CST6CDT] PHP Notice:  Undefined index: till_no in /home/asiliate/public_html/mobile2bank.test/scripts/email-submissions.php on line 25
+[08-Sep-2015 09:47:40 CST6CDT] PHP Notice:  Undefined index: till_no in /home/asiliate/public_html/mobile2bank.test/scripts/email-submissions.php on line 25
+[08-Sep-2015 09:47:41 CST6CDT] PHP Notice:  Undefined index: till_no in /home/asiliate/public_html/mobile2bank.test/scripts/email-submissions.php on line 25
+[08-Sep-2015 14:18:01 CST6CDT] PHP Notice:  Undefined index: till_no in /home/asiliate/public_html/mobile2bank.test/scripts/email-submissions.php on line 25
+[08-Sep-2015 14:18:55 CST6CDT] PHP Notice:  Undefined index: till_no in /home/asiliate/public_html/mobile2bank.test/scripts/email-submissions.php on line 25
+[08-Sep-2015 15:17:23 CST6CDT] PHP Notice:  Undefined index: director_sname in /home/asiliate/public_html/mobile2bank.test/scripts/email-submissions.php on line 66
+[05-Oct-2015 04:39:12 CST6CDT] PHP Notice:  Undefined index: reuse_details in /home/asiliate/public_html/mobile2bank.test/scripts/email-submissions.php on line 25
+[05-Oct-2015 04:41:10 CST6CDT] PHP Notice:  Undefined index: reuse_details in /home/asiliate/public_html/mobile2bank.test/scripts/email-submissions.php on line 25
+[05-Oct-2015 05:46:30 CST6CDT] PHP Notice:  Undefined index: reuse_details in /home/asiliate/public_html/mobile2bank.test/scripts/email-submissions.php on line 25
+[01-Feb-2016 01:52:12 CST6CDT] PHP Notice:  Undefined variable: headers in /home/chaseban/public_html/mobile2bank/scripts/email-submissions.php on line 148
+[01-Feb-2016 05:26:26 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/chaseban/public_html/mobile2bank/scripts/email-submissions.php on line 30
+[01-Feb-2016 06:59:50 CST6CDT] PHP Parse error:  syntax error, unexpected $end in /home/chaseban/public_html/mobile2bank/scripts/email-submissions.php on line 174
+[01-Feb-2016 07:09:56 CST6CDT] PHP Warning:  require_once(../PHPMailer/PHPMailerAutoload.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/chaseban/public_html/mobile2bank/scripts/email-submissions.php on line 6
+[01-Feb-2016 07:09:56 CST6CDT] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../PHPMailer/PHPMailerAutoload.php' (include_path='.:/usr/local/php53/pear') in /home/chaseban/public_html/mobile2bank/scripts/email-submissions.php on line 6
