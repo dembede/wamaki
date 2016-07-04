@@ -1,8 +1,6 @@
 <?php
-// echo "I can see this - before";
 if(isset($_REQUEST['submit'])){
-  // $to = "info@wamaki.co.ke";
-  $to = "info@stitchcreative.co.ke";
+  $to = "info@wamaki.co.ke";
   $from = $_REQUEST['email'];
   $name = $_REQUEST['name'];
   $subject = $_REQUEST['subject'];
